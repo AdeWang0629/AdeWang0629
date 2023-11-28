@@ -9,7 +9,11 @@
 |:--------- |:----- |:----- |
 | <br><ul><li>Programming :computer: &nbsp;( obviously</li><li>UI design :art:</li><li>Math / Physics</li><li>Drumming :drum: &nbsp;/ Singing :microphone:</li><li>SF movies :clapper:</li><li>**Singer : [Ayumi Hamasaki](https://ayumihamasaki.fandom.com/wiki/Hamasaki_Ayumi) 🎶**</li><li>**Cartoon : [Naruto](https://naruto.fandom.com/wiki/Naruto_Uzumaki) 🐱‍👤**</li><li>**Sport : [Tennis](https://ideal-living.com/tennis-retirement-communities/) 👏**</li></ul> | <blockquote>Credit is essential to me. By maintaining it, you will always be successful. Even if you don't earn money or achieve progress, you should never lose your core values as an individual.</blockquote><br><br>  <blockquote>信用は私の人生です。これを守り続ければ常に勝利者となります。お金を稼げなくても成長できなくても、人としての本質を失ってはなりません。</blockquote> | <br><ul><li>[gmail](mailto:adswang.dev@gmail.com)</li><br><br><li>[skype](https://join.skype.com/invite/x0YxgBpADmo2)</li><br><br><li>[chatwork](https://www.chatwork.com/AdaWang)</li></ul>|
 
-![programming-client](https://github.com/AdeWang0629/AdeWang0629/assets/142295831/67bfafc2-6ec3-492f-beed-81b80a1320f3)
+<div align="center">
+  <img src="https://github.com/AdeWang0629/AdeWang0629/assets/142295831/67bfafc2-6ec3-492f-beed-81b80a1320f3" alt="programming-client" width="400" />
+  <img src="https://github.com/AdeWang0629/AdeWang0629/assets/142295831/b6a3a82f-f8b1-4c9a-a41d-50f8677fe73a" alt="scaler-create-impact" width="400" />
+</div>
+<!-- ![programming-client](https://github.com/AdeWang0629/AdeWang0629/assets/142295831/67bfafc2-6ec3-492f-beed-81b80a1320f3) -->
 
 ![scaler-create-impact](https://github.com/AdeWang0629/AdeWang0629/assets/142295831/b6a3a82f-f8b1-4c9a-a41d-50f8677fe73a)
 
