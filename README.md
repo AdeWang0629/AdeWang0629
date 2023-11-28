@@ -1,4 +1,4 @@
-## Hello, I'm AdeWang😍
+## ✨Hello, I'm AdeWang😍
 
 - A full stack software engineer
 - Ruby, Swift, Kotlin, TypeScript, Scala, Perl
