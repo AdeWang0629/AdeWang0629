@@ -12,10 +12,8 @@
 <div align="center">
   <img src="https://github.com/AdeWang0629/AdeWang0629/assets/142295831/67bfafc2-6ec3-492f-beed-81b80a1320f3" alt="programming-client" width="400" />
   <img src="https://github.com/AdeWang0629/AdeWang0629/assets/142295831/b6a3a82f-f8b1-4c9a-a41d-50f8677fe73a" alt="scaler-create-impact" width="400" />
+  <img src="https://github.com/AdeWang0629/AdeWang0629/assets/142295831/ae1ebad5-99c1-48c9-b31f-7d106567af32" alt="scaler-create-impact" width="400" />
 </div>
-<!-- ![programming-client](https://github.com/AdeWang0629/AdeWang0629/assets/142295831/67bfafc2-6ec3-492f-beed-81b80a1320f3) -->
-
-![scaler-create-impact](https://github.com/AdeWang0629/AdeWang0629/assets/142295831/b6a3a82f-f8b1-4c9a-a41d-50f8677fe73a)
 
 ## 📈 GitHub Statistics
 <img align="left" height="200px" src="https://github-readme-stats.vercel.app/api?username=AdeWang0629&sshow_icons=true&theme=radical&count_private=true">
